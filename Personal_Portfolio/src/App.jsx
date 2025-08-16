@@ -1,12 +1,10 @@
-import { Button } from "@/components/ui/button"
-import MotionTest from "./MotionTest";
+import React from "react";
+
 
 function App() {
   return (
-    <div>
-      <h1 className="bg-red-200">hello </h1>
-    </div>
-  )
+    <div></div>
+  );
 }
 
-export default App
+export default App;
